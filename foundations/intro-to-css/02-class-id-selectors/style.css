@@ -1,0 +1,22 @@
+.odd,
+.cooler {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+    font-weight: 500;
+}
+
+.cooler {
+    font-size: 28px;
+}
+
+#another {
+    font-size: 28px;
+    font-weight: 700;
+    background-color: #90ee90;
+}
